@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "bill_feed-dispencer", "bill_feed-dispencer.cppproj", "{10B0AEB6-1434-4B75-86A7-46D48EA92755}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10B0AEB6-1434-4B75-86A7-46D48EA92755}.Debug|AVR.ActiveCfg = Debug|AVR
+		{10B0AEB6-1434-4B75-86A7-46D48EA92755}.Debug|AVR.Build.0 = Debug|AVR
+		{10B0AEB6-1434-4B75-86A7-46D48EA92755}.Release|AVR.ActiveCfg = Release|AVR
+		{10B0AEB6-1434-4B75-86A7-46D48EA92755}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
